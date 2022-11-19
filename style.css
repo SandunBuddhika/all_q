@@ -1,0 +1,21 @@
+
+.web_button {
+    background-image: url(images/photo-1461749280684-dccba630e2f6.jpg);
+    background-size: cover;
+    height: 400px;
+    padding-top: 200px;
+    color: white;
+    font-weight: 900;
+    font-size: 25px;
+    filter: blur(0px);
+    border: rgba(0, 0, 0, 0);
+}
+.web_button2 {
+    background-image: url(images/block-storage-t.jpg);
+    padding-top: 50px;
+}
+.web_button:hover {
+    color: white;
+    filter: blur(1px);
+    transition: .3s;
+}
